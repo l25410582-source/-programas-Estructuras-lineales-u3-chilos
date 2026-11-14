@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{752F253C-B21A-892D-65A7-CD53132A5F79}|Proyecto2_Restaurante\\Proyecto2_Restaurante.csproj|c:\\users\\emida\\onedrive\\documentos\\estructua u 3\\proyecto2_restaurante\\proyecto2_restaurante\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752F253C-B21A-892D-65A7-CD53132A5F79}|Proyecto2_Restaurante\\Proyecto2_Restaurante.csproj|solutionrelative:proyecto2_restaurante\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752F253C-B21A-892D-65A7-CD53132A5F79}|Proyecto2_Restaurante\\Proyecto2_Restaurante.csproj|c:\\users\\emida\\onedrive\\documentos\\estructua u 3\\proyecto2_restaurante\\proyecto2_restaurante\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752F253C-B21A-892D-65A7-CD53132A5F79}|Proyecto2_Restaurante\\Proyecto2_Restaurante.csproj|solutionrelative:proyecto2_restaurante\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752F253C-B21A-892D-65A7-CD53132A5F79}|Proyecto2_Restaurante\\Proyecto2_Restaurante.csproj|c:\\users\\emida\\onedrive\\documentos\\estructua u 3\\proyecto2_restaurante\\proyecto2_restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752F253C-B21A-892D-65A7-CD53132A5F79}|Proyecto2_Restaurante\\Proyecto2_Restaurante.csproj|solutionrelative:proyecto2_restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\Proyecto2_Restaurante\\Nodo.cs",
+              "RelativeDocumentMoniker": "Proyecto2_Restaurante\\Nodo.cs",
+              "ToolTip": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\Proyecto2_Restaurante\\Nodo.cs",
+              "RelativeToolTip": "Proyecto2_Restaurante\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:21:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\Proyecto2_Restaurante\\cliente.cs",
+              "RelativeDocumentMoniker": "Proyecto2_Restaurante\\cliente.cs",
+              "ToolTip": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\Proyecto2_Restaurante\\cliente.cs",
+              "RelativeToolTip": "Proyecto2_Restaurante\\cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:20:50.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\Proyecto2_Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto2_Restaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto2_Restaurante\\Proyecto2_Restaurante\\Program.cs",
+              "RelativeToolTip": "Proyecto2_Restaurante\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:15:04.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
