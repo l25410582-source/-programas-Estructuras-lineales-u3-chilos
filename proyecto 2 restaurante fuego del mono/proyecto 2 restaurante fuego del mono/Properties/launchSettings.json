@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "proyecto 2 restaurante fuego del mono": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
