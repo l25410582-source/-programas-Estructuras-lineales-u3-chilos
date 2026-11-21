@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZLfEDwHlAg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto6_tareas\\proyecto 6\\proyecto 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emida\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

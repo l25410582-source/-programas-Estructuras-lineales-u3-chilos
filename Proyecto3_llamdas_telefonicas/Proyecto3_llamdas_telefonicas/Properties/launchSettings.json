@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Proyecto3_llamdas_telefonicas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
