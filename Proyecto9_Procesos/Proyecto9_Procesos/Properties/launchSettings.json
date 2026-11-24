@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Proyecto9_Procesos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

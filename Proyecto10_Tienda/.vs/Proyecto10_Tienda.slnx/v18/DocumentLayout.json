@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto10_Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C88005-4118-4756-A53B-50F39FFB37FA}|Proyecto10_Tienda\\Proyecto10_Tienda.csproj|c:\\users\\emida\\onedrive\\documentos\\estructua u 3\\proyecto10_tienda\\proyecto10_tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C88005-4118-4756-A53B-50F39FFB37FA}|Proyecto10_Tienda\\Proyecto10_Tienda.csproj|solutionrelative:proyecto10_tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto10_Tienda\\Proyecto10_Tienda\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto10_Tienda\\Program.cs",
+              "ToolTip": "C:\\Users\\emida\\OneDrive\\Documentos\\estructua u 3\\Proyecto10_Tienda\\Proyecto10_Tienda\\Program.cs",
+              "RelativeToolTip": "Proyecto10_Tienda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T17:27:32.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
